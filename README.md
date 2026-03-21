@@ -1,2 +1,3 @@
-# fast-social-platform-rimd
-A social networking platform for modern development workflows
+# Fast Social Platform Rimd
+
+A social networking platform for modern development workflows.
